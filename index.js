@@ -28,4 +28,3 @@ function countDown(number) {
 }
 
 countDown(10);
-
